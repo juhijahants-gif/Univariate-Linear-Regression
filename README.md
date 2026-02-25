@@ -26,6 +26,7 @@ plt.show()
 
 ## Output
 <img width="729" height="544" alt="image" src="https://github.com/user-attachments/assets/7826d03c-8720-4fa8-bd60-d246db9f644b" />
+
 ## Program
 ```
 #Building the model
@@ -40,7 +41,9 @@ m=num/den
 c=Y_mean-m*X_mean
 print(m,c)
 ```
+
 ## Output
+
 1.1696969696969697 1.2363636363636363
 
 ## Program
